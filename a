@@ -1,0 +1,4 @@
+cd /workspaces/equisde
+git add index.html
+git commit -m "Agregar página WOW Slider"
+git push
